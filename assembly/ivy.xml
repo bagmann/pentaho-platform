@@ -129,7 +129,7 @@
     </dependency>
 
     <!--  Other archive resources -->
-    <dependency org="pentaho" name="pentaho-user-console-package" rev="${project.revision}" transitive="false" changing="true" />
+    <dependency org="pentaho" name="pentaho-user-console-package" rev="DOJO-SNAPSHOT" transitive="false" changing="true" />
 
     <!--  BigData dependencies -->
 
